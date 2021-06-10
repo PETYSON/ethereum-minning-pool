@@ -1,4 +1,10 @@
-## Open Source Ethereum Mining Pool
+
+## An Ethereum Mining Pool.Base on open ethereum pool by @sammy
+- Fix bugs while make & run
+- add features
+- support solo minning
+- v2 is on dev please be patience.
+- any Q&S mailTo: richachen00@gmail.com
 
 ![Miner's stats page](https://user-images.githubusercontent.com/7374093/31591180-43c72364-b236-11e7-8d47-726cd66b876a.png)
 
